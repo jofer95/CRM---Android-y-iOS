@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">ejmeplo1.Droid</string>
+  <string-array name="TipoClientes">
+    <item>Cliente descartado</item>
+    <item>Cliente potencial</item>
+    <item>Cliente prospecto</item>
+    <item>Cliente</item>
+  </string-array>
+</resources>
